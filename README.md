@@ -1,5 +1,11 @@
 ![alt text](https://github.com/hackathon-us/ideas-stanford/raw/master/img/Hackathon-Splash-NoBG.png "Hackathon Us")
 
+## [Data Analytics Hackathon Slide Deck](https://docs.google.com/presentation/d/1VR4bBEq2W4BsfuKU9s399BSyYXOqafCVOyS7C8bZvMY/edit?usp=sharing)
+
+## [Data Analytics Hackathon Submission Form](https://goo.gl/forms/iOFW0uVEBxxy9mPx1)
+
+## [Data Analytics Hackathon Support Group](https://t.me/KambriaSupport)
+
 ## Instacart Dataset Resources
 
 * [Download Dataset](https://www.instacart.com/datasets/grocery-shopping-2017)
@@ -26,3 +32,14 @@
 * [7 Ways To Boost Your Revenue With Digital Coupon Marketing](https://www.forbes.com/sites/ajagrawal/2016/05/31/7-ways-to-boost-your-revenue-with-digital-coupon-marketing/#108597a625b3)
 * [How to Increase Sales By Using Mobile Coupons for Marketing](https://www.inc.com/peter-roesler/how-to-increase-sales-by-using-mobile-coupons-for-marketing.html)
 * [Incentivizing the shopping cart with mobile-based coupons](https://www.supermarketnews.com/blog/incentivizing-shopping-cart-mobile-based-coupons)
+
+## Hackathon Resources
+
+* [Expo](https://expo.io)
+* [Snack](https://snack.expo.io)
+* [Material Design Bootstrap](https://mdbootstrap.com/)
+* [Marvel](https://marvelapp.com)
+* [Reflector](http://www.airsquirrels.com/reflector/)
+* [UI Design Patterns](http://ui-patterns.com/)
+* [JSON Server](https://github.com/typicode/json-server)
+* [Hackathon Starter](https://github.com/sahat/hackathon-starter)
