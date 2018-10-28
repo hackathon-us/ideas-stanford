@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/hackathon-us/ideas-stanford/raw/master/img/Hackathon-Splash-NoBG.png "Hackathon Us")
 
 ## Instacart Dataset Resources
 
